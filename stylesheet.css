@@ -12,12 +12,29 @@
     border-width: 2px;
     border-color: antiquewhite;
 
+    text-align: left;
+}
+
+#contact-info
+{
+    padding-bottom: 16px;
+    border-bottom-style: solid;
+    border-bottom-color: darkgoldenrod;
+    border-bottom-width: 1px;
+}
+
+.set-right
+{
+    float: right;
 }
 
 h1
 {
     font-size: 48px;
-    margin-bottom: -20px;
+    margin-bottom: -8px;
+    border-bottom-style: solid;
+    border-bottom-color: darkgoldenrod;
+    border-bottom-width: 1px;
 }
 
 h2
@@ -30,12 +47,18 @@ h3
 {
     font-size: 32px;
     margin-bottom: -16px;
+    border-bottom-style: solid;
+    border-bottom-color: darkgoldenrod;
+    border-bottom-width: 2px;
 }
 
 h4
 {
     font-size: 20px;
-    margin-bottom:-10px;
+    margin-bottom: -10px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: darkgoldenrod;
 }
 
 p
